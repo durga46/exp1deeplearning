@@ -58,7 +58,7 @@ from sklearn.preprocessing import MinMaxScaler
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 
-worksheet = gc.open('DLDataset').sheet1
+worksheet = gc.open('MyFirstDataset').sheet1
 
 rows = worksheet.get_all_values()
 
@@ -126,7 +126,6 @@ input_scaled.shape
 ai_brain.predict(input_scaled)
 ```
 
-Include your code here
 
 ## Dataset Information
 
