@@ -16,6 +16,8 @@ First we can take the dataset based on one input value and some mathematical cal
 ![nn img](https://user-images.githubusercontent.com/75235704/187594061-969542cb-5adc-4eca-bafb-25620b297911.png)
 
 
+
+
 ## DESIGN STEPS
 
 ### STEP 1:
